@@ -6,6 +6,4 @@
     "node": true
  }
 //  "extends":["eslint:recommended","google"]
-
-
 }
